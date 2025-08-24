@@ -1,0 +1,3 @@
+Model,Accuracy,AUROC,AUPRC,MCC
+attention,0.8,1.0,1.0,0.509
+attention,0.3,1.0,1.0,0.167

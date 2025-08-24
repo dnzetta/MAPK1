@@ -1,0 +1,11 @@
+PUBCHEM_CID,SMILES,Label
+648670,Brc1ccc(Nc2c3c(nc4ncnn24)CCC3)cc1,1
+5848270,N#C/C(C(N)=O)=c1/ccc2c(c1)N1C3=C(CCCC3)CC3CCCCC31N=2,1
+659735,COc1cccc(N2CCN(c3ncnc4c3[nH]c3ccccc34)CC2C)c1,1
+3232949,COc1cccc(-c2nc(NCCc3c[nH]c4ccc(OC)cc34)c3ccccc3n2)c1,1
+3233343,c1ccc(-c2ccc(N3CC4(CCNCC4)C3)cc2)cc1,1
+3233670,Cc1cccc(CNc2nc(-c3cccnc3)nc3ccccc23)c1,1
+3233777,c1ccc(Nc2ncnc3ccc(-c4ccc5c(c4)OCO5)cc23)cc1,1
+3233999,COc1ccccc1CNc1ncncc1-c1ccc(N(C)C)cc1,1
+1549587,Cc1cccc(Nc2ncnc3nc[nH]c23)c1,1
+5308085,CCOC(=O)CN1CC23C=CC(O2)C(C(=O)NCCc2ccccc2)C3C1=O,0

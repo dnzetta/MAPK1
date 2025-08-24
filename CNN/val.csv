@@ -1,0 +1,3 @@
+PUBCHEM_CID,MolWt,LogP,NumHDonors,NumHAcceptors,TPSA,NumRotatableBonds,NumAromaticRings,NumAromaticCarbocycles,NumAromaticHeterocycles,NumSaturatedRings,NumHeteroatoms,RingCount,HeavyAtomCount,NumAliphaticRings,NumAliphaticCarbocycles,NumAliphaticHeterocycles,NumValenceElectrons,NumSpiroAtoms,NumHeterocycles,NumAmideBonds,Label
+3236995,288.376,2.9273000000000007,1.0,6.0,51.97,3.0,2.0,1.0,1.0,0.0,6.0,3.0,20.0,1.0,0.0,1.0,104.0,0.0,2.0,0.0,0
+1573761,468.7160000000003,6.022490000000005,0.0,8.0,41.9,4.0,2.0,1.0,1.0,0.0,9.0,4.0,28.0,2.0,0.0,2.0,148.0,0.0,3.0,1.0,1
